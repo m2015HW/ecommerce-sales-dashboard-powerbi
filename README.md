@@ -50,10 +50,10 @@ The dashboard provides insights into revenue trends, product performance, delive
 ## 🖼️ Dashboard Preview
 
 ### Business Overview
-![Page 1](Business Overview.png)
+![Page 1](BusinessOverview.png)
 
 ### Operations & Customer Insights
-![Page 2](Operations & Customer Insights.png)
+![Page 2](Operations&CustomerInsights.png)
 
 ---
 
