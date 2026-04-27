@@ -7,66 +7,77 @@
 ### Operations & Customer Insights
 ![Page 2](Operations&CustomerInsights.png)
 
+---
+
 ## 🚀 Project Highlights
-- Built an end-to-end analytics dashboard using real-world e-commerce data  
-- Designed interactive Power BI visuals for business decision-making  
-- Analysed customer behaviour, delivery performance, and revenue trends  
-- Applied DAX to create KPIs such as Average Order Value and Late Delivery %
+- Built an end-to-end analytics solution using Python, SQL, and Power BI  
+- Analysed sales performance, customer behaviour, and operational efficiency  
+- Created interactive dashboards for business decision-making  
+- Identified key factors affecting customer satisfaction  
 
 ---
 
-## 🚀 Project Overview
-This project is an end-to-end data analytics solution designed to analyse e-commerce sales, customer behaviour, and operational performance.
+## 📂 Dataset
 
-The dashboard provides insights into revenue trends, product performance, delivery efficiency, and customer satisfaction.
+This project is based on the **Olist Brazilian E-commerce Dataset**, a real-world dataset containing transactional data from an online marketplace.
+
+### Dataset Includes:
+- Customers (location, demographics)  
+- Orders (purchase & delivery details)  
+- Products (categories)  
+- Payments (methods, value)  
+- Reviews (customer feedback)  
+
+These datasets were merged to create a unified analytical dataset.
+
+📌 Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
 ## 🛠️ Tools & Technologies
-- Python (Pandas, NumPy)
-- SQL (PostgreSQL)
-- Power BI
-- Excel
-
----
-
-## 📂 Workflow
-1. Data cleaning and preprocessing using Python  
-2. Data analysis and aggregation using SQL  
-3. Interactive dashboard development using Power BI  
+- Python (Pandas, NumPy)  
+- SQL (PostgreSQL)  
+- Power BI  
+- Excel  
 
 ---
 
 ## 📈 Dashboard Features
 
 ### 🔹 Business Overview
-- Total Revenue, Orders, Customers, Average Order Value  
+- Revenue, Orders, Customers, AOV  
 - Monthly Revenue Trend  
-- Revenue by Customer Location (Map)  
+- Customer Location Map  
 - Top Product Categories  
 
-### 🔹 Operations & Customer Insights
+### 🔹 Operations & Insights
 - Late Delivery %  
 - Delivery Time Distribution  
-- Review Score: On-Time vs Late Deliveries  
+- Review Score Analysis  
 - Revenue by Payment Method  
-- Key Business Insights  
 
 ---
 
 ## 📊 Key Insights
 - Late deliveries significantly reduce customer satisfaction  
-- Most deliveries are completed within 5–10 days  
-- Credit card payments dominate revenue contribution  
-- Certain product categories generate the highest sales  
+- Most deliveries occur within 5–10 days  
+- Credit card payments dominate revenue  
+- Few categories drive majority of sales  
 
 ---
 
-## 💡 Conclusion
-This project demonstrates the ability to:
-- Perform end-to-end data analysis  
-- Build interactive dashboards  
-- Generate actionable business insights  
+## 💡 Business Recommendations
+- Improve delivery timelines  
+- Focus on high-performing categories  
+- Optimize payment processes  
+- Monitor performance using dashboards  
+
+---
+
+## 📄 Project Report
+
+📥 Download Full Report:  
+[Project Report](ecommerce_report.pdf)
 
 ---
 
